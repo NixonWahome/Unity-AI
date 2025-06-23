@@ -9,7 +9,7 @@ import time
 from PIL import Image
 import warnings
 #run the download.py first..
-# Suppress all warnings
+# Suppress all warnings.
 warnings.filterwarnings("ignore")
 
 # Configuration - Using smaller models for CPU
