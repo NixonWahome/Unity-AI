@@ -8,7 +8,7 @@ import os
 import time
 from PIL import Image
 import warnings
-#run the download.py first...
+#run the download.py first..
 # Suppress all warnings
 warnings.filterwarnings("ignore")
 
